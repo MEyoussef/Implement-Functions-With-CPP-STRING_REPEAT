@@ -12,4 +12,4 @@
  * @return the concatenated string after repeating 'count' times with optional separator
  *
  * @throws None
- */
+ **/
